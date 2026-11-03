@@ -1,0 +1,21 @@
+# Environment variables and secrets
+.env
+backend/.env
+
+# Python virtual environment
+.venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+
+frontend/node_modules/
+frontend/dist/
+
+ml/.venv/
+ml/model_artifacts/
+ml/dataset/
